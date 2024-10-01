@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    color: orchid;
+    text-align: center;
+    padding: 15px;
+}
+.menu {
+    width: 100px;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    }
+    .imeg{
+        width: 150px;
+        height: 155px;
+        border-radius: 10px;
+        border-color: black;
+        border-style: solid;
+        margin: 5px;
+    }
+    h2{
+        color: green;
+    }
+    p{
+    color: red;
+    width: 500px;
+    margin: 0 auto;
+    padding: 15px;
+    }
